@@ -7,3 +7,4 @@ joblib
 scipy
 jupyter
 jupyterlab
+pyarrow
