@@ -3,6 +3,8 @@ This repository serves as an example of RFM (Recency, Frequency, Monetary) Analy
 
 ---
 
+![Customer Segments](assets/treemap.png "Title")
+
 #### About RFM Analysis
 RFM Analysis is a customer segmentation technique used in marketing and CRM to analyze customer purchasing behavior based on three metrics:
 
